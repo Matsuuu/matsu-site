@@ -1,0 +1,5 @@
+- Something with a code-like typewriter
+- Maybe some vim inputs?
+- Transfer the blog here
+- Some kind of integrationg with medium/dev.to?
+- Showcase page for open source etc.
