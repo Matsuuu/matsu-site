@@ -4,9 +4,9 @@
   "description": "### TODO:",
   "main": "index.js",
   "scripts": {
-      "build": "npx eleventy",
-      "start": "npx eleventy --serve",
-      "debug": "DEBUG=* npx eleventy"
+    "build": "npx eleventy",
+    "start": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
     "type": "git",
